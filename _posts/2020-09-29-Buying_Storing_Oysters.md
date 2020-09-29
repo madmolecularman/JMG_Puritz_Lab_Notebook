@@ -4,9 +4,7 @@ title: Buying and Storing Oysters
 category: [Preparing for oyster EecSeq work]
 ---
 
-## Buying Oysters from......
-
-![Fearless](https://github.com/madmolecularman/JMG_Puritz_Lab_Notebook/tree/master/images/fearless.png)
+## From Fearless Fish Market
 
 ### Why Fearless?
 
