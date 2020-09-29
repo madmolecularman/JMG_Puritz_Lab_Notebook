@@ -16,7 +16,6 @@ I am dedicated to open, rigorous, and reproducible experiments and analyses.
 
 [gree9242@uri.edu](mailto:gree9242@uri.edu)
 
-
 ## <center>Jacob Michael Green</center>
 <center>Department of Biological Sciences</center>
 <center>University of Rhode Island</center>
