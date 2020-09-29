@@ -10,7 +10,7 @@ I am dedicated to open, rigorous, and reproducible experiments and analyses.
 
 ### More Information
 
-https://madmolecularman.wordpress.com/
+[Madmolecularman](https://madmolecularman.wordpress.com/)
 
 ### Contact me
 
