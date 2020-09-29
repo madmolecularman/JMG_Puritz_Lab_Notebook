@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "2020-09-29-Buying_and_Storing_Oysters"
-category: [preparing for oyster EecSeq work]
-tags:[prep,buying]
+title: Buying_and_Storing_Oysters
+category: [Preparing for oyster EecSeq work]
 ---
 
 ```{r setup, include=FALSE}
@@ -11,7 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Buying Oysters from......
 
-![Fearless]()
+![Fearless](https://github.com/madmolecularman/JMG_Puritz_Lab_Notebook/tree/master/images/fearless.png)
 
 ### Why Fearless?
 
@@ -38,5 +37,34 @@ Sea Kist | Narragansett Bay | Floating Gear | 4 | 1.65 ea |
 
 Total came out to $13.20. Really not bad for 8 oysters, and they are very good size!
 
-![Hmmmmm, wish I could eat them]()
+![Hmmmmm, wish I could eat them](https://github.com/madmolecularman/JMG_Puritz_Lab_Notebook/blob/master/images/oysters1.jpg)
+
+### How are you storing them?
+
+So I looked and looked and looked all over online. There is a bunch of weird info, but the short is in the fridge.
+
+1) I took them out of the bags and checked them to make sure they didn't sound hollow. A hollow sound can indicate a bad oyster. All you neeed to  do is tap it with your finger
+
+2) I briefly washed the outer shell with cold water
+
+3) Placed ice in a tupperware container and poured salt over the ice. The salt will lower the freezing point. More on this later
+
+4) Wet a kitchen cloth and squeezed out so it is damp but not dripping. Placed this over the oysters.
+
+5) Placed in fridge above any meat products
+
+**Caution**
+
+* Oysters should not sit in fresh water. They will die. It is like putting a salt water fish in freshwater. It messes with their osmoregulation, which is sciencey talk for salt balance in their "blood"
+
+* Salt will lower the freezing point for ice so that it does not melt as readily. This can keep the oysters from slipping into the freshwater that will pool at the bottom of the tupperare
+
+* A damp cloth help keep the air around them moist so they do not dry out. Fridges are dry places.
+
+* Do not place them below meat products. You may be clean, but you don't want to mix terrestrial animals juices with ocean animal juices.
+
+### Can you clarify what you are doing with the Oysters?
+
+
+
 

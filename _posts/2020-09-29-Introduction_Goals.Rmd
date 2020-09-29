@@ -1,12 +1,11 @@
 ---
-title: "2020-09-29-Introduction_Goals_Projects"
-author: "Jacob M. Green"
-date: "9/29/2020"
-output: html_document
+layout: post
+title: Introduction and Goals for this page
+category: [preparing for oyster EecSeq work]
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## 
+## Place holder
