@@ -12,11 +12,11 @@ Disclaimer: I am in no way connected with this fish market besides the fact that
 
 **Onto the specifics**
 
-They buy direct from fishermen and women in Rhode Island. They purchase fresh seafood every day. They are friendly and have an eye for sustainability. On the sustainability bit here is a statement from their FAQ page: 
+They buy direct from fishermen and women in Rhode Island. They purchase fresh seafood nearly every day (season and weather permitting). They are friendly and have an eye for sustainability. On the sustainability bit here is a statement from their FAQ page: 
 
 > "We try to buy American fish as much as possible. American fisheries are among the best managed fisheries in the world. This is due to the Magnuson Stevens act of 1976. This act was responsible for implementing conservation regulation that helped many fish populations recover and preserved many of those species’ habitats. Our fishery management system has been replicated by many countries worldwide.  It is most certainly not perfect (and arguably too restrictive), but we are confident that US seafood is caught in a way to sustain the fish population and have a low impact on the marine environment. We follow the Food and Agricultural Organization (FAO) assessments of fisheries worldwide.  We are confident in the FAO’s efforts to collect the best available data to determine the status of global fisheries."
 
-This is to say that when making decisions about how to buy seafood it is important.
+This is to say that when making decisions about how to buy seafood sustainability is important.
 
 ### Why is this on your research page?
 
@@ -31,7 +31,7 @@ Sea Kist | Narragansett Bay | Floating Gear | 4 | 1.65 ea |
 
 Total came out to $13.20. Really not bad for 8 oysters, and they are very good size!
 
-![Hmmmmm, wish I could eat them](https://github.com/madmolecularman/JMG_Puritz_Lab_Notebook/blob/master/images/oysters1.jpg)
+![Hmmmmm, wish I could eat them](/images/oysters1.jpg)
 
 ### How are you storing them?
 
