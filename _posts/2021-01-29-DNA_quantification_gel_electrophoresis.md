@@ -92,9 +92,9 @@ AA005 G1| 5 ul |
 28.	Wipe the imager with a Kimwipe and DI type II water
 29. Return all the materials you have used to where you found them
 
-!(Gel Picture Raw)[/images/raw_gel_210129.jpg]
+![Gel Picture Raw](https://raw.githubusercontent.com/madmolecularman/JMG_Puritz_Lab_Notebook/master/images/raw_gel_210129.jpg)
 
-!(Gel Picture Analyzed)[/images/practice_samples_gel_210129.jpg]
+![Gel Picture Analyzed](https://raw.githubusercontent.com/madmolecularman/JMG_Puritz_Lab_Notebook/master/images/practice_samples_gel_210129.jpg)
 
 #### Thoughts on sonication protocol
 
