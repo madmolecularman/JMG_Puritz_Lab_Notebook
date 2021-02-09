@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am an integrative marine seascape bioinformatician. I am currently a PhD student in the Puritz lab of Marine Ecology and Evolution at the University of Rhode Island. I also participate fully in my learning communities including VOICES and the MARC program.
+I am an integrative marine seascape bioinformatician. I am currently a PhD student in the Puritz lab of Marine Ecology and Evolution at the University of Rhode Island. I also participate fully in my learning communities including VOICES, SACNAS, and the MARC program.
 
 I am dedicated to open, rigorous, and reproducible experiments and analyses.
 
