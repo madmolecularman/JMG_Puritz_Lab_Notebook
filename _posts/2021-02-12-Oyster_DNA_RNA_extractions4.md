@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Oyster DNA/RNA extraction part 3
+title: Oyster DNA/RNA extraction part 4
 category: [Oyster EecSeq]
 ---
 
