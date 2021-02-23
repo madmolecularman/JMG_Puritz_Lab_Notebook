@@ -2,6 +2,7 @@
 layout: post
 title: Oyster DNA Sonication Part 1
 category: [Oyster EecSeq]
+output: md_document
 ---
 
 ## Oyster DNA Sonication Part 1
