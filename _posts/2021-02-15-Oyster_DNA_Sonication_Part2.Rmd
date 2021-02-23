@@ -1,0 +1,25 @@
+---
+layout: post
+title: Oyster DNA Sonication Part 2
+category: [Oyster EecSeq]
+---
+
+## Oyster DNA Sonication Part 2
+
+**Goal:** 
+
+**Results:** 
+
+**Conclusion:**
+
+#### Prep
+
+  
+#### Calculations
+
+
+#### Sample Name & Description
+
+
+#### Sonication Protocol
+
