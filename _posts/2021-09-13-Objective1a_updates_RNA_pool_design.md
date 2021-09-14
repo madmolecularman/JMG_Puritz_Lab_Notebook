@@ -94,7 +94,9 @@ This brings us to the questionable finish of the RNA probes. For probe pools 4, 
 The options we see forward are the following:
 
 1) Use only pools 4, 5, 6 as technical replicates for the 150 and 350 gDNA insert size
+
 2) Use all pools but have technical replicates as a cross for both gDNA pools
+
 3) Use only pools 4, 5, 6 for gDNA insert 150 or 350 and pools 7, 8, 9 for gDNA insert 150 or 350 
 
 
