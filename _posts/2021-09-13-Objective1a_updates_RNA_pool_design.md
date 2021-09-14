@@ -86,7 +86,9 @@ While we don't have tapestation results of post DSN treatment we do have results
 This brings us to the questionable finish of the RNA probes. For probe pools 4, 5, 6 we had no issue through this part of the synthesis retaining size and retaining good concentration to carry through to hybridization. Pools 7, 8, 9 are a different story. We saw a very reduced concentration and near obliteration of insert size. We attempted another probe synthesis where we achieved good concentration for Pool 7 and 8 but questionable size. Once again Pool 9 did not retain its concentration. After another attempt we now have enough probes for Pool 9 but the size is still questionable
 
 [RNA probes All Pools](https://github.com/madmolecularman/JMG_Puritz_Lab_Notebook/blob/master/tapestation_pdfs/Obj1a_RNAProbes_210817.pdf)
+
 [Part 1 RNA probes Pool 7, 8, 9](https://github.com/madmolecularman/JMG_Puritz_Lab_Notebook/blob/master/tapestation_pdfs/Obj1a_RNAProbes_210827.pdf)
+
 [Part 2 RNA probes Pool 7, 8, 9](https://github.com/madmolecularman/JMG_Puritz_Lab_Notebook/blob/master/tapestation_pdfs/Obj1a_RNA_Probes_210910.pdf)
 
 The options we see forward are the following:
