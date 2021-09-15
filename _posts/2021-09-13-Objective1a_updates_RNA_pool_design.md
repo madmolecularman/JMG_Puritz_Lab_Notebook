@@ -37,7 +37,7 @@ Concentration of DNA/RNA extraction of each individual is listed in the table be
 |MCD23|219|1.52|
 
 
-[RNA sample results link]()
+[RNA sample results link](https://github.com/madmolecularman/JMG_Puritz_Lab_Notebook/blob/master/tapestation_pdfs/rna_tapestation_obj1a.PNG)
 
 
 ### Quality of mRNA library prep pools
@@ -56,9 +56,11 @@ These samples were pooled as replicates in pools 1, 2, 3, 4, 5, 6, 7, 8, 9 in or
 |Pool 8|51.9|511/711|
 |Pool 9|154|512/712|
 
-[RNA library results pool 1,2,3]()
-[RNA library results pool 4,5,6]()
-[RNA library results pool 7,8,9]()
+[RNA library results pool 1,2,3](https://github.com/madmolecularman/JMG_Puritz_Lab_Notebook/blob/master/tapestation_pdfs/Obj1a_cDNA_libprepamp_210712.pdf)
+
+[RNA library results pool 4,5,6](https://github.com/madmolecularman/JMG_Puritz_Lab_Notebook/blob/master/tapestation_pdfs/Obj1a_cDNA_libprepamp_210716.pdf)
+
+[RNA library results pool 7,8,9](https://github.com/madmolecularman/JMG_Puritz_Lab_Notebook/blob/master/tapestation_pdfs/Obj1a_cDNA_libprepamp_210723.pdf)
 
 ### DSN treatment
 
@@ -77,20 +79,24 @@ Intially pools 5, 6, 8 did not have a high enough concentration to continue with
 
 While we don't have tapestation results of post DSN treatment we do have results from the MBN treatment which are the initial steps in probe synthesis. 
 
-[MBN results]()
+[MBN results](https://github.com/madmolecularman/JMG_Puritz_Lab_Notebook/blob/master/tapestation_pdfs/Obj1a_MBN_reaction_210813.pdf)
 
 ### Probe synthesis
 
 This brings us to the questionable finish of the RNA probes. For probe pools 4, 5, 6 we had no issue through this part of the synthesis retaining size and retaining good concentration to carry through to hybridization. Pools 7, 8, 9 are a different story. We saw a very reduced concentration and near obliteration of insert size. We attempted another probe synthesis where we achieved good concentration for Pool 7 and 8 but questionable size. Once again Pool 9 did not retain its concentration. After another attempt we now have enough probes for Pool 9 but the size is still questionable
 
-[RNA probes All Pools]()
-[Part 1 RNA probes Pool 7, 8, 9]()
-[Part 2 RNA probes Pool 7, 8, 9]()
+[RNA probes All Pools](https://github.com/madmolecularman/JMG_Puritz_Lab_Notebook/blob/master/tapestation_pdfs/Obj1a_RNAProbes_210817.pdf)
+
+[Part 1 RNA probes Pool 7, 8, 9](https://github.com/madmolecularman/JMG_Puritz_Lab_Notebook/blob/master/tapestation_pdfs/Obj1a_RNAProbes_210827.pdf)
+
+[Part 2 RNA probes Pool 7, 8, 9](https://github.com/madmolecularman/JMG_Puritz_Lab_Notebook/blob/master/tapestation_pdfs/Obj1a_RNA_Probes_210910.pdf)
 
 The options we see forward are the following:
 
 1) Use only pools 4, 5, 6 as technical replicates for the 150 and 350 gDNA insert size
+
 2) Use all pools but have technical replicates as a cross for both gDNA pools
+
 3) Use only pools 4, 5, 6 for gDNA insert 150 or 350 and pools 7, 8, 9 for gDNA insert 150 or 350 
 
 
