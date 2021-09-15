@@ -10,7 +10,7 @@ tags:
 
 Not the most reassuring day in the lab. We know we have different size probes at the end of RNA library synthesis. Viewing this new analysis, post-probe synthesis, I am not sure that we have different size probes between the pools at this point. I am juggling a few ideas of why this might be, primarily the impact of molecular processes used between library creation and probe creation.
 
-[RNA Post-Probe synthesis Pools 4, 5, 6, 7, 8, 9]()
+[RNA Post-Probe synthesis Pools 4, 5, 6, 7, 8, 9](https://github.com/madmolecularman/JMG_Puritz_Lab_Notebook/blob/master/tapestation_pdfs/Obj1a_RNAProbes_210915.pdf)
 
 #### Thoughts on why we have smaller fragments
 
