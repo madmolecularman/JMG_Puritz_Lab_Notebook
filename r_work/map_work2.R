@@ -20,7 +20,7 @@ library(ggmap)
 
 
 #Input google key
-register_google(key="AIzaSyC1Lvx1A1kULrf0BIwlyiytK27uDzQ0YMs")
+register_google(key="")
 
 #Set working directory
 setwd("C:/Users/jacog/Desktop/github-notebooks/JMG_Puritz_Lab_Notebook/data/")
