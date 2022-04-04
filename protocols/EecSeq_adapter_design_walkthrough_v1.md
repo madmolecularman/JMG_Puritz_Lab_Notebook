@@ -49,7 +49,7 @@ Labeling directionality for the alignment of this adapter set:
 * Y-inline-SaIIa_v2:
     >3' T*CAGCT(cut site)GNNNNNNNTCTAGCCTTCTCGCAGCACATCCCTTTCTCAC 5'
 
-In these sequences the "N's" are any nucleotide and we have 7 of them inside of this custom adapter. This "N" section as a unique sequence that can readily identify unique libraries. The cut site that is specific for the SAII restriction enzyme is labeled. The specific nucleotide seuqeunce is G/TCGAC with the slash being the cut site for the enzyme.
+In these sequences the "N's" are any nucleotide and we have 7 of them inside of this custom adapter. This "N" section as a unique sequence that can readily identify unique libraries. The cut site that is specific for the SAII restriction enzyme is labeled. The specific nucleotide sequence is G/TCGAC with the slash being the cut site for the enzyme.
 
 So how might these two oligonucleotides align?
 
@@ -59,7 +59,7 @@ So how might these two oligonucleotides align?
     3' T*CAGCTGNNNNNNNTCTAGCCTTCTCGCAGCACATCCCTTTCTCAC 5'
 ```
 
- We can see that there are regions where the two adapters are complimentary and other areas where they are not. The primary annealing region in located in the middle with about 13 nucleotides aligning with each other. This is why it is important to add equimolar stock of each adapter in the right chemical environment that can promote annealing. There is also  5' phosphate group on the SallbV2 adapter which is necessary for ligation of the adapter to our RNA molecules of interest. The SallaV2 adapter has a phosphorothiate bond between the C and T (noted by the *) and is very strong. This region is important as exonuclease can remove the T during ligation of this adapter to the 3' poly-A overhang created during mRNA synthesis.
+ We can see that there are regions where the two adapters are complimentary and other areas where they are not. The primary annealing region in located in the middle with about 13 nucleotides aligning with each other. This is why it is important to add equimolar stock of each adapter in the right chemical environment that can promote annealing. There is also a 5' phosphate group on the SallbV2 adapter which is necessary for ligation of the adapter to our RNA molecules of interest. The SallaV2 adapter has a phosphorothiate bond between the C and T (noted by the *) and is very strong. This region is important as exonuclease can remove the T during ligation of this adapter to the 3' poly-A overhang created during mRNA synthesis.
 
 ## mRNA adapter orientation post ligation
 
@@ -157,9 +157,9 @@ The i5 primer can be read from the 3' end as the first 31 base pairs of the Sall
 - SallaV2
     > 3' T*CAGCTGNNNNNNNT**CTAGCCTTCTCGCAGCACATCCCTTTCTCAC** 5'
 
-This means it will bind to the compliment of the SallaV2 adapter, specifically that 31 nucleotide region. 
+This means it will bind to the compliment of the SallaV2 adapter, specifically that 31 nucleotide region.
 
-The i7 primer can be read from the 3' end as the reverse compliment of the SallbV2 adapter. This one is a bit trickier to visualize so I will do my best to break it down here. 
+The i7 primer can be read from the 3' end as the reverse compliment of the SallbV2 adapter. This one is a bit trickier to visualize so I will do my best to break it down here.
 
 - i7 primer
     > 5' CAAGCAGAAGACGGCATACGAGATCGAGTAATGT**GACTGGAGTTCAGACGTGTG**CT 3'
@@ -217,7 +217,7 @@ We would now have cDNA libraries that contain the SaIIV2 adapters on the left an
 
 ## Adapter removal from DSN treated cDNA libraries for probe synthesis
 
-Prior to synthesizing our capture probes we apply a process called double stranded nuclease (DSN) normalization to our cDNA libraries. DSN normalization reduces highly expressed transcripts present in the cDNA libraries reducing expression bias within our capture probe set. DSN works by denaturing double stranded DNA (dsDNA) in to single stranded DNA (ssDNA) and upon cooling more abundant transcripts re-anneal at a higher rate than less abundant transcripts. These more abundant transcripts are identified by the thermal stable DSN isolated from the Kamchatka crab and removes them while preserving the ssDNA. Durign this process we retain our primer adapter design and the result of this process are structurally intact normalized cDNA libraries. From this process we can move onto the first step of Probe synthesis which is adapter removal via SaII restriction enzyme.
+Prior to synthesizing our capture probes we apply a process called double stranded nuclease (DSN) normalization to our cDNA libraries. DSN normalization reduces highly expressed transcripts present in the cDNA libraries tehrefore reducing expression bias within our capture probe set. DSN works by denaturing double stranded DNA (dsDNA) into single stranded DNA (ssDNA) and upon cooling more abundant transcripts re-anneal at a higher rate than less abundant transcripts. These more abundant transcripts are identified by the thermal stable DSN isolated from the Kamchatka crab and removes them while preserving the ssDNA. During this process we retain our primer adapter design and the results of this process are structurally intact normalized cDNA libraries. From this process we can move onto the first step of Probe synthesis which is adapter removal via SaII restriction enzyme.
 
 Removing adapters from DSN treated cDNA libraries takes advantage of the cutsite contained within our adapter sequences. The SaII-HF restriction enzyme has reduced star activity (similar site cleavage) and minimizes off target products. This SaII-HF enzyme recognizes this specific double stranded configuration where the "/" are the cuts to the phosphate sugar backbone of DNA:
 
@@ -226,14 +226,14 @@ Removing adapters from DSN treated cDNA libraries takes advantage of the cutsite
 3'...CAGCT/G...5'
 ```
 
-To represent our sequence fragment we have (NNN_NNN). We will not type out the primers as it makes it extremely long but you can imagine they are there. Also we will not show the hydrogen bonds holding the two complimentary strands together but they are also there. Imagination is a beautiful thing huh! So if we think about what our cDNA library looks like we would a strcuture similar to this:
+To represent our sequence fragment we have (NNN_NNN). We will not type out the primers as it makes it extremely long but you can imagine they are there. Also we will not show the hydrogen bonds holding the two complimentary strands together but they are also there. Imagination is a beautiful thing huh! So if we think about what our cDNA library looks like we would a structure similar to this:
 
 *Pre RE treatment sequence fragment with*
 
 ```text
-5' CACTCTTTCCCTACACGACGCTCTTCCGATCTNNNNNNNG(cut)TCGACT(NNN_NNN)G(cut)TCGACNNNNNNNAGATCGGAAGAGCACACGTCTGAACTCCAGTC 3'
+5' (primer)CACTCTTTCCCTACACGACGCTCTTCCGATCTNNNNNNNG(cut)TCGACT(NNN_NNN)G(cut)TCGACNNNNNNNAGATCGGAAGAGCACACGTCTGAACTCCAGTC(primer) 3'
 
-3' GTGAGAAAGGGATGTGCTGCGAGAAGGCTAGANNNNNNNCAGCT(cut)GA(NNN_NNN)CAGCT(cut)GNNNNNNNTCTAGCCTTCTCGTGTGCAGACTTGAGGTCAG 5'
+3' (primer)GTGAGAAAGGGATGTGCTGCGAGAAGGCTAGANNNNNNNCAGCT(cut)GA(NNN_NNN)CAGCT(cut)GNNNNNNNTCTAGCCTTCTCGTGTGCAGACTTGAGGTCAG(primer) 5'
 ```
 
 *Post RE treatment*
@@ -310,7 +310,7 @@ For our EecSeq protocol we use a different sets of adapters for gDNA libary synt
 - Y-inline-12b
     > /Phos/T*(GCAAG)**AGATCGGAAGAGCACACGTCTGAACTCCAGTC**
 
-A few structural apects to note about these adapters. The bolded section is the conserved region of the adapter, meaning all of the "a" adapters share this region in common, just as all the "b" adapters that their bolded region as well. The 5 nucleotide sequence in () are the adapter barcodes (similar to the unique barcodes on food items) that allow us to demultiplex our sample bioinformatically. I will be showing an example of just one adapter set and how they align when annealed.
+A few structural aspects to note about these adapters. The bolded section is the conserved region of the adapter, meaning all of the "a" adapters share this region in common, just as all the "b" adapters that their bolded region as well. The 5 nucleotide sequence in () are the adapter barcodes (similar to the unique barcodes on food items) that allow us to demultiplex our sample bioinformatically after getting data back from the sequencing facility. I will be showing an example of just one adapter set and how they align when annealed.
 
 - Y-inline-1a
     > 5' CACTCTTTCCCTACACGACGCTCTTCCGATCTATCACG*T 3'
