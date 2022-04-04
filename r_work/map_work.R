@@ -34,13 +34,15 @@ head(sites)
 attach(sites)
 
 #Get midpoint of all the sites
-samp_mean<-sapply(sites[,c("lon","lat")],mean)
+samp_mean<-sapply(sites[,c("Longitude","Latitude")],mean)
 
 #Set map parameters
-pmap <- get_map(location = samp_mean, maptype = "terrain", source = "google",zoom=10)
+pmap <- get_map(location = samp_mean, maptype = "Satellite", source = "google",zoom=10)
 
 #Set map data
-samp_map<-ggmap(pmap) + geom_count(data = sites, mapping = aes(x = lon, y = lat), color="red") 
+samp_map<-ggmap(pmap) + geom_point(data = sites, mapping = aes(x = Longitude, y = Latitude), color="red", size = 5) + geom_label_repel(aes(Longitude,Latitude,label=Sites),data = sites, size = 5,  box.padding = 0.3, point.padding = 0.5, direction = "both", force = 1.5)
+
+samp_map<-ggmap(pmap) + geom_point(data = sites, mapping = aes(x = Longitude, y = Latitude), color="red", size = 5) 
 
 #Plot map
 samp_map
