@@ -10,7 +10,7 @@ tags:
 ## What did we do?
 
 * Pooled RNA from 12 samples into 9 different pools in 4000 ng/ul concentrations per pool.
-* Made new adapters for SAIlV2 and SAIl primers
+* Made new adapters for SAIlV2 and SAIl primers at 7 um working solution
 * Confirmed RNA quality and inout into mRNA library preps
 * Pool 1, 2, 3 used SaIlV2 adapters and 508/708 primers
 * Pool 4, 5, 6 used SaIl adapters and 509/709 primers
