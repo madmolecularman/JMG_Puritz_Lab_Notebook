@@ -14,9 +14,9 @@ tags:
 
 Assuming 13 kD
 
-7um Sall adapters ~ 91 ng/ul
-40 um Sall adapters ~ 520 ng/ul
-200 um Sall adapters ~ 2600 ng/ul
+* 7um Sall adapters ~ 91 ng/ul
+* 40 um Sall adapters ~ 520 ng/ul
+* 200 um Sall adapters ~ 2600 ng/ul
 
 ## DNA qubit
 
