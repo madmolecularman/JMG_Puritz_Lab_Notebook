@@ -73,4 +73,4 @@ For this Qubit I added a few extra samples just to make sure we were amplifying 
 |11|SallV2|47.4|
 |12|Sall|36.6|
 
-Pool 1-3 didn't amplify which were the SallV2 adapters, but we had the SAll adapter pools amplify but only after a 30 cycle PCR. There might be a better way to appraoch that but for now it looks like the Sall adapters are working! What we have is just really low amounts of cDNA going into the library amplification.
+Pool 1-3 didn't amplify which were the SallV2 adapters, but we had the SAll adapter pools amplify but only after a 30 cycle PCR. There might be a better way to approach that but for now it looks like the Sall adapters are working! What we have is just really low amounts of cDNA going into the library amplification.
