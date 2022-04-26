@@ -33,4 +33,4 @@ For this qubit we used all the adapters working and stock solutions. The 7um and
 |7|Salla 200 um|650|
 |8|Sallb 200 um|1372|
 
-Interestingly, The Salla/b and Salla/bV2 adapters are not equal in ng/ul. I am unsure of why this might be? SallaV2 is 46 bp and SallbV2 is 45 bp. There shoul dnot be this large of a discrepancy. Another note is that these stock Salla/b solutions were diluted by Jacob on 8-12-18 and the Salla/bV2 solutions were diluted by Maggie around 5-01-19. This would mean we both would have made an error in dilutions nearly 6 months a part?
+Interestingly, the Salla/b and Salla/bV2 adapters are not equal in ng/ul. I am unsure of why this might be? SallaV2 is 46 bp and SallbV2 is 45 bp. There should not be this large of a discrepancy. Another note is that these stock Salla/b solutions were diluted by Jacob on 8-12-18 and the Salla/bV2 solutions were diluted by Maggie around 5-01-19. This would mean we both would have made an error in dilutions nearly 6 months a part?
